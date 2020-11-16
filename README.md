@@ -1,2 +1,2 @@
 # terminalbrot
-Explore teh mandelbrot set from the linux terminal
+Explore the mandelbrot set from the linux terminal
